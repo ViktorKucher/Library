@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="400" height="400" viewBox="0 0 400 400" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.2</desc>
+<defs>
+</defs>
+<g transform="matrix(0.78 0 0 0.78 200 200)" id="facebook"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(74,74,74); fill-rule: evenodd; opacity: 1;"  transform=" translate(-128.2, -256.17)" d="M 57.5410405 512 L 171.298266 512 L 170.37341 256.690958 L 246.211561 256.690958 L 255.830058 168.248313 L 171.298266 168.248313 L 171.298266 114.352901 C 171.298266 114.352901 171.298266 100.01552 179.806936 94.6612686 C 188.315607 89.3070181 198.119075 88.7881242 198.119075 88.7881242 L 255.830058 88.7881242 L 255.830058 0.345479082 C 255.830058 0.345479082 205.864624 0.345470146 176.847399 0.345479082 C 147.830174 0.345487883 115.142173 9.00380197 98.6046243 19.0013495 C 60.3156069 42.148448 57.5410405 97.0796221 57.5410405 97.0796221 L 57.5410405 168.248313 L 0.569942197 168.248313 L 0.569942197 255.654521 L 57.5410405 255.654521 L 57.5410405 512 Z" stroke-linecap="round" />
+</g>
+</svg>
