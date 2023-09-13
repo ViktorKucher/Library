@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MyAppServiceKVO1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_203C98E0B82C437A93986EBBDC6D622D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6DBB247E47446D7AF86746B63B0CA56 }}
           package: .
